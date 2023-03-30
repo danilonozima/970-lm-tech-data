@@ -4,5 +4,4 @@
 
 ### Projetos: 
 
-- Calculadora
-- Projeto final técnicas de programação II
+- Calculadora com operações de adição, subtração, divisão e multiplicação (30/mar/23)
