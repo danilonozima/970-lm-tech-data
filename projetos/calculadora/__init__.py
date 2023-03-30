@@ -19,10 +19,10 @@ def calcule():
             pass
     operacao = input('Digite a operação desejada: soma (+), subtração (-), divisão (/) our multiplicação (*): ')
     if operacao == 'soma' or operacao == '+':
-        soma(a, b)
+        return soma(a, b)
     elif operacao == 'subtração' or operacao == '-':
-        subtracao(a, b)
+        return subtracao(a, b)
     elif operacao == 'divisão' or operacao == '/':
-        divisao(a, b)
+        return divisao(a, b)
     elif operacao == 'multiplicação' or operacao == '*':
-        multiplicacao(a, b)
+        return multiplicacao(a, b)
