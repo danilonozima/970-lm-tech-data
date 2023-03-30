@@ -1,1 +1,1 @@
-from funcoes import soma
+from funcoes import soma, subtracao
