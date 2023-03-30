@@ -1,1 +1,1 @@
-from funcoes import soma, subtracao, divisao
+from funcoes import soma, subtracao, divisao, multiplicacao
